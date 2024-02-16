@@ -1,10 +1,8 @@
-# Rent A Car Projesi
+# Rent A Car Projesi  
 
-## Proje Ortakları
-Ahmet Kaya
-Büşra Yüksekel
-Zeynep Sevinç
-Burak Karlıdağ
+# ** YAPIM AŞAMASINA CAR RENTEX ORGANİZASYONUNDA DEVAM ETMEKTEDİR **
+
+## ORGANİZASYON URL->  https://github.com/CarRentex/
 
 ## Proje Açıklaması
 
